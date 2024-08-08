@@ -2,3 +2,7 @@ pandas
 streamlit
 yfinance
 pandas_datareader
+distutils
+datetime
+numpy
+plotly

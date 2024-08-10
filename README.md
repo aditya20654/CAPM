@@ -11,7 +11,7 @@ Features:
 
 -CAPM Calculations: Compute Beta values and expected returns for selected stocks.
 
-=Dynamic Charts: Scatter plots comparing stock returns to market returns.
+-Dynamic Charts: Scatter plots comparing stock returns to market returns.
 
 Technologies Used:
 

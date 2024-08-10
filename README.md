@@ -3,28 +3,28 @@ This Streamlit app performs CAPM analysis to evaluate the risk and return of sel
 
 Features:
 
-Stock Selection: Choose multiple stocks for analysis from a predefined list.
+-Stock Selection: Choose multiple stocks for analysis from a predefined list.
 
-Historical Data: Fetch historical stock prices and S&P 500 index data.
+-Historical Data: Fetch historical stock prices and S&P 500 index data.
 
-Visualizations: Interactive plots showing stock prices, normalized prices, and rolling vaccination data.
+-Visualizations: Interactive plots showing stock prices, normalized prices, and rolling vaccination data.
 
-CAPM Calculations: Compute Beta values and expected returns for selected stocks.
+-CAPM Calculations: Compute Beta values and expected returns for selected stocks.
 
-Dynamic Charts: Scatter plots comparing stock returns to market returns.
+=Dynamic Charts: Scatter plots comparing stock returns to market returns.
 
 Technologies Used:
 
-Python Libraries: pandas, yfinance, pandas_datareader, plotly, numpy, streamlit
+-Python Libraries: pandas, yfinance, pandas_datareader, plotly, numpy, streamlit
 
-Data Sources: Yahoo Finance for stock prices, Federal Reserve Economic Data (FRED) for S&P 500 data
+-Data Sources: Yahoo Finance for stock prices, Federal Reserve Economic Data (FRED) for S&P 500 data
 
 Usage:
 
-Select Stocks: Choose any number of stocks from the list.
+-Select Stocks: Choose any number of stocks from the list.
 
-Specify Duration: Enter the number of years for historical data.
+-Specify Duration: Enter the number of years for historical data.
 
-View Results: Analyze visualizations and CAPM metrics, including Beta and expected returns.
+-View Results: Analyze visualizations and CAPM metrics, including Beta and expected returns.
 
 This app provides an interactive platform to assess stock performance and investment potential using CAPM.

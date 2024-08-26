@@ -7,7 +7,7 @@ Features:
 
 -Historical Data: Fetch historical stock prices and S&P 500 index data.
 
--Visualizations: Interactive plots showing stock prices, normalized prices, and rolling vaccination data.
+-Visualizations: Interactive plots showing stock prices and normalized prices.
 
 -CAPM Calculations: Compute Beta values and expected returns for selected stocks.
 
